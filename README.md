@@ -1,8 +1,4 @@
 # proyecto-UTEC-2018-01
-#buenas profesor este es el codigo que usted nos mando a hacer para la clase de auditorio de 9 - 11 am por 
-#problemas tecnicos el link de mi github con el corre0 de utec no se pudo enviar(se envio otro link que era el de invitacion) asi que usted me dijo que le enviara uno con otro correo
-#  asi que usted me dijo que le enviara uno con otro correo , le pido mil disculpas gracias. 
-# He creado un correcto de palabras de diccionario el cual hize de proyecto en el laboratorio! 
 
 
 # Abriendo el archivo
